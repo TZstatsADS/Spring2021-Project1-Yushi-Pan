@@ -9,12 +9,18 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2021
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: An Examination of the 2016 Presidential Election
++ This project is conducted by Yushi Pan
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This project is an analysis of people's voting preferences towards the 2016 presidential election. By preprocessing the raw data and visualizing the cleaned data, the following three main questions are answered in this project:
+
+++ Does the survey result about who they voted agree on the actual election result? 
+++ Are there any demographic differences between the coalitions that support the two major party nominees?
+++ Is this true that people don't care about politics tend not to vote? 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+
+
 
 ```
 proj/
