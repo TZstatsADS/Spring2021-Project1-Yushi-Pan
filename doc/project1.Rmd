@@ -301,7 +301,7 @@ I also examined whether people have donated money to a particular individual can
 
 2. People's voting preference various demographically. Race was strongly correlated with voting preference in 2016. In addition, voting was also correlated with gender, age, and education. Whereas class had only a trivial correlation with people's voting preference in 2016.
 
-3. People's interested in politics strongly affected their decisions of whether to vote. In general, people who were very much interested in political campaigns and often talked about politics in their daily life were more willing to vote. 
+3. People's interests in politics strongly affected their decisions of whether to vote. In general, people who were very much interested in political campaigns and often talked about politics in their daily life were more likeliy to vote. 
 
 
 # 4. Improvement 
